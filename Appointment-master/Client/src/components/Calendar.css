@@ -1,0 +1,38 @@
+.home{
+    height: 80vh;
+    display: flex;
+    justify-content: space-between;
+}
+.calendar{
+    display: flex;
+    margin-left: 60px;
+    align-items: center;
+    height: 80vh;
+    width: 50ch;
+}
+
+.img{
+    height: 80vh;
+    width: 70ch;
+}
+.i{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.date{
+    text-align: center;
+    color: rgb(58, 58, 247);
+}
+.list{
+    
+    display: flex;
+    width:915px;
+    margin: 20px auto;
+}
+.boxes{
+    margin-top: 3.7%;
+    margin-left: 15%;
+    display: flex;
+    flex-direction: column;
+}

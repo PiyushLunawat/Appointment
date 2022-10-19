@@ -1,0 +1,22 @@
+.lisitem{
+    
+
+    height: 300px;
+    width: 600px;
+
+}
+ul{
+    margin-left: 22%;
+    height: 50px;
+    width: 100ch;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 2px solid black;
+    background-color: rgb(156, 150, 150);
+
+}
+li{
+    list-style-type: none;
+    margin-right: 50px;
+}

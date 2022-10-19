@@ -1,0 +1,43 @@
+.sign{
+    margin-left: 20px;
+    height: 90vh;
+    display: flex;
+    width: 70ch;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+.header{
+    font-size: larger;
+}
+.inp{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.text{
+    outline: none;
+    width: 50ch;
+    margin-top: 10px;
+    height: 40px;
+    border-radius: 2px;
+}
+.text:active{
+    border-bottom: 2px solid black;
+}
+
+.btn{
+    height: 40px;
+    background-color: blue;
+    color: white;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+.btn:hover{
+    background-color: rgb(23, 23, 180);
+    cursor: pointer;
+}

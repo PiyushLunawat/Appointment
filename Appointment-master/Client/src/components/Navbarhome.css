@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&family=Lobster&family=Macondo&family=Oswald:wght@200;300&family=Righteous&family=Roboto+Serif:ital,opsz,wght@0,8..144,500;1,8..144,400&family=Roboto:ital,wght@0,100;0,300;0,500;0,700;0,900;1,400&family=Ubuntu:wght@300&display=swap');
+
+.navba{
+    align-items: center;
+    display: flex;
+    height: 10vh;
+    background-color: rgb(58, 58, 247);
+   
+
+}
+
+.headin{
+    font-size: xx-large;
+    font-family: 'Koulen', cursive;
+    display: flex;
+    justify-content: center;
+    width: 80ch;
+    color: white;
+}
+.actio{
+    font-family: 'Koulen', cursive;
+    display: flex;
+    justify-content: space-between;
+    width: 50ch;
+    color: white;
+}
+.signu{
+    margin-right: 20px;
+}
+.logi:hover{
+    cursor: pointer;
+}
+.signu:hover{
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+    color: white;
+}

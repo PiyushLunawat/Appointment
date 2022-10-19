@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&family=Lobster&family=Macondo&family=Oswald:wght@200;300&family=Righteous&family=Roboto+Serif:ital,opsz,wght@0,8..144,500;1,8..144,400&family=Roboto:ital,wght@0,100;0,300;0,500;0,700;0,900;1,400&family=Ubuntu:wght@300&display=swap');
+
+.division{
+    margin-right:5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid grey;
+    height: 200px;
+    width: 300px;
+
+}
+.name{
+    color: rgb(58, 58, 247);
+}
+.time{
+    font-size: larger;
+}
+.button{
+    color: white;
+    font-family: 'Koulen', cursive;
+    font-size: larger;
+    border: solid white;
+    background-color: rgb(28, 28, 228);
+    height: 40px;
+    border-radius: 5px;
+   
+
+}
+.button:hover{
+    background-color: blue;
+    cursor: pointer;
+}
+
